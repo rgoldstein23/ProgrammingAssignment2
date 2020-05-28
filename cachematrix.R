@@ -1,8 +1,5 @@
-# Programming Assignment 2: Lexical Scoping
-
 ## Function 1: makeCacheMatrix creates a matrix object
 ## that can cache the inverse of the matrix. 
-
 ## Function 2: cacheSolve computes the inverse of the cached matrix
 ## from makeCacheMatrix
 
